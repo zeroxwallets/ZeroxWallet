@@ -43,5 +43,5 @@
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/zkonboard.git
+git clone https://github.com/ZeroXwallet/zkonboard.git
 cd zkonboard
