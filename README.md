@@ -45,3 +45,7 @@
 ```bash
 git clone https://github.com/ZeroXwallet/zkonboard.git
 cd zkonboard
+
+⚠️ This repo is under active development — last updated [14-7-25].
+
+We’re moving fast but keeping it open for visibility and collaboration.
