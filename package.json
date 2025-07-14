@@ -1,0 +1,14 @@
+{
+  "name": "zeroxwallet-clean",
+  "version": "1.0.0",
+  "description": "Clean Hardhat setup for ZeroxWallet",
+  "scripts": {
+    "deploy": "npx hardhat run scripts/deploy.js --network arbitrumSepolia"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.17.0",
+    "@nomiclabs/hardhat-ethers": "^2.2.3"
+  }
+}
