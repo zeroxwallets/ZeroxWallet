@@ -1,0 +1,8 @@
+### ✅ Milestone 1 Complete
+- Deployed ERC-4337 wallet on Arbitrum Sepolia
+- Paymaster logic with basic gasless txs
+- Integrated bundler & relayer
+
+### 🔄 In Progress
+- Reclaim credential integration
+- Mission UX + test flows
